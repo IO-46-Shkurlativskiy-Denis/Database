@@ -130,14 +130,14 @@ SELECT *
 FROM Supplier;
 ```
 Результат:
-![SELECT1](select1.png)
+![SELECT1](SELECT1.png)
 ### Другий SELECT
 ```sql
 SELECT *
 FROM Purchase;
 ```
 Результат:
-![SELECT12](select2.png)
+![SELECT2](SELECT2.png)
 ## Структура
 
 > Supplier
